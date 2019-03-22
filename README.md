@@ -8,3 +8,5 @@ A C implementation of burrows-wheeler transform for file compression.
 2. Compilation modules
 
 ![schema](documentation/modules.png) 
+
+
